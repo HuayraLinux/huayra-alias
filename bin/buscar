@@ -1,2 +1,3 @@
 #!/usr/bin/env node
-var mu = require('../lib/buscar')
+var main = require('../lib/main')
+main.buscar();
