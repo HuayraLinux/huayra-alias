@@ -18,6 +18,9 @@ comandos:
 	@echo ""
 	@echo "  ${Y}Para distribuir${N}"
 	@echo ""
+	@echo "    ${G}release${N}         Arma una nueva versión y la sube a npm."
+	@echo "    ${G}utest${N}           Ejecuta los test de unidad."
+	@echo "    ${G}live_test${N}       Ejecuta los test de unidad de forma continua."
 	@echo "    ${G}publicar${N}        Incrementa la versión."
 	@echo "    ${G}crear_deb${N}       Empaqueta para huayra."
 	@echo ""
@@ -37,3 +40,14 @@ publicar:
 
 crear_deb:
 	dpkg-buildpackage -us -uc
+
+
+live_test:
+		jasmine-node spec --watch lib --autotest --color --growl
+
+
+release:
+		./node_modules/.bin/release-it
+
+utest:
+		./node_modules/.bin/jasmine-node spec
