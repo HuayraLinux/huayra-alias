@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=huayra-alias
+Comment=Comment
+Exec=/usr/bin/huayra-alias
+Terminal=true
+Type=Application
+Icon=huayra-alias
+Categories=GNOME;GTK;Huayra;Network;
