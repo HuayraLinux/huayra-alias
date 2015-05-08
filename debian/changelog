@@ -1,3 +1,9 @@
+huayra-alias (1-0.0.1) unstable; urgency=low
+
+  * Prueba iniciar de empaquetado.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 08 May 2015 17:35:14 -0300
+
 huayra-alias (0.1) unstable; urgency=low
 
   * Versión inicial.

@@ -1,5 +1,7 @@
 lib/* usr/share/huayra-alias/lib
-bin/huayra-alias usr/share/huayra-alias/bin
-bin/huayra/huayra-alias usr/bin/
+bin/buscar usr/share/huayra-alias/bin
+bin/huayra/buscar usr/bin/
+bin/instalar usr/share/huayra-alias/bin
+bin/huayra/instalar usr/bin/
 debian/huayra-alias.desktop /usr/share/applications
 debian/huayra-alias.svg /usr/share/icons/hicolor/scalable/apps
