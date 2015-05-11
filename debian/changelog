@@ -1,3 +1,15 @@
+huayra-alias (1-0.0.1-5) unstable; urgency=low
+
+  * Mostrando progreso al momento de actualizar el listado de paquetes. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 11 May 2015 16:59:50 -0300
+
+huayra-alias (1-0.0.1-4) unstable; urgency=low
+
+  * Prueba de captura de pantalla del comando buscar. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 11 May 2015 16:33:15 -0300
+
 huayra-alias (1-0.0.1-3) unstable; urgency=low
 
   * Prueba del comando instalar.
