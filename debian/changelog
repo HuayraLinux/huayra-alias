@@ -1,3 +1,15 @@
+huayra-alias (1-0.0.1-2) unstable; urgency=low
+
+  * Arreglo menor. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 11 May 2015 11:45:56 -0300
+
+huayra-alias (1-0.0.1-1) unstable; urgency=low
+
+  * Instalando dependencias 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 11 May 2015 11:44:02 -0300
+
 huayra-alias (1-0.0.1) unstable; urgency=low
 
   * Prueba iniciar de empaquetado.

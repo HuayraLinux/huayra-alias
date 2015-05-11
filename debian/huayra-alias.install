@@ -1,4 +1,6 @@
 lib/* usr/share/huayra-alias/lib
+node_modules/* usr/share/huayra-alias/node_modules
+package.json usr/share/huayra-alias/
 bin/buscar usr/share/huayra-alias/bin
 bin/huayra/buscar usr/bin/
 bin/instalar usr/share/huayra-alias/bin
