@@ -28,6 +28,7 @@ comandos:
 
 iniciar:
 	npm install
+	cp extras/clui.js ./node_modules/clui/lib/
 
 ejecutar_linux:
 	@node bin/huayra-alias
@@ -43,11 +44,10 @@ crear_deb:
 
 
 live_test:
-		jasmine-node spec --watch lib --autotest --color --growl
-
+	node_modules/jasmine-node/bin/jasmine-node spec  --watch lib --autotest --color --growl
 
 release:
-		./node_modules/.bin/release-it
+	./node_modules/.bin/release-it
 
 utest:
-		./node_modules/.bin/jasmine-node spec
+	node_modules/jasmine-node/bin/jasmine-node spec
