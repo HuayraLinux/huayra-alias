@@ -1,3 +1,13 @@
 #!/usr/bin/env node
 var main = require('../lib/main')
-main.comando_instalar();
+
+var verbose = process.argv.indexOf('-v') != -1;
+var help = process.argv.indexOf('-h') != -1;
+var argumentos = main.filtrar_argumentos(process.argv);
+
+if (help) {
+    main.imprimir_ayuda_instalar();
+    return 1;
+}
+
+main.comando_instalar(verbose, argumentos);
