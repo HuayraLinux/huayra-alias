@@ -1,3 +1,9 @@
+huayra-alias (1-0.0.1-6) unstable; urgency=low
+
+  * Implementando comandos de cache.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 13 May 2015 16:02:33 -0300
+
 huayra-alias (1-0.0.1-5) unstable; urgency=low
 
   * Mostrando progreso al momento de actualizar el listado de paquetes. 
