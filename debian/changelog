@@ -1,3 +1,9 @@
+huayra-alias (1-0.0.1-7) unstable; urgency=low
+
+  * Haciendo que se actualice el cache solo despues de hacer apt-get update.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 13 May 2015 16:09:30 -0300
+
 huayra-alias (1-0.0.1-6) unstable; urgency=low
 
   * Implementando comandos de cache.
