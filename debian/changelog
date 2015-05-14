@@ -1,3 +1,9 @@
+huayra-alias (1-0.0.4) unstable; urgency=low
+
+  * Actualizando paquete. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 14 May 2015 15:39:59 -0300
+
 huayra-alias (1-0.0.3) unstable; urgency=low
 
   * Agregando un mensaje de error indicando si no hay conexión a Internet.
