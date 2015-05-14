@@ -1,3 +1,9 @@
+huayra-alias (1-0.0.3) unstable; urgency=low
+
+  * Agregando un mensaje de error indicando si no hay conexión a Internet.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 14 May 2015 12:09:36 -0300
+
 huayra-alias (1-0.0.2) unstable; urgency=low
 
   * Agregando coloreado a la busqueda de paquetes.
