@@ -1,3 +1,9 @@
+huayra-alias (1-0.0.5) unstable; urgency=low
+
+  * Arreglos menores.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 15 May 2015 11:35:47 -0300
+
 huayra-alias (1-0.0.4) unstable; urgency=low
 
   * Actualizando paquete. 
