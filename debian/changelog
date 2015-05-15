@@ -1,3 +1,9 @@
+huayra-alias (0.1.0) unstable; urgency=low
+
+  * Cambiando nomenclarura.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 15 May 2015 12:48:11 -0300
+
 huayra-alias (1-0.1.0) unstable; urgency=low
 
   * Cambiando el numero de versión.
