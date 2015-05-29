@@ -1,3 +1,12 @@
+huayra-alias (0.1.4) unstable; urgency=low
+
+  * Update changelog for 0.1.3 release
+  * reparando el comando para imprimir ayuda
+  * Release 0.1.5
+  * Release 0.1.6
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 29 May 2015 13:11:36 -0300
+
 huayra-alias (0.1.3) unstable; urgency=low
 
   * Update changelog for 0.1.2 release
