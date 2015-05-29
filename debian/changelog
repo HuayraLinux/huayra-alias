@@ -1,3 +1,13 @@
+huayra-alias (0.1.2) unstable; urgency=low
+
+  * actualizando paquete.
+  * agregando screenshots
+  * agregando el comando actualizar.
+  * agregando comando actualizar.
+  * Release 0.1.2
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 29 May 2015 11:36:16 -0300
+
 huayra-alias (0.1.1) unstable; urgency=low
 
   * Arreglo menor. 
