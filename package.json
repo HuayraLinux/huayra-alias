@@ -1,6 +1,6 @@
 {
   "name": "huayra-alias",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "¡Hola, esto es huayra-alias!",
   "main": "index.js",
   "scripts": {
