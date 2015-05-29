@@ -1,3 +1,10 @@
+huayra-alias (0.1.3) unstable; urgency=low
+
+  * Update changelog for 0.1.2 release
+  * Release 0.1.3
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 29 May 2015 12:01:10 -0300
+
 huayra-alias (0.1.2) unstable; urgency=low
 
   * actualizando paquete.
