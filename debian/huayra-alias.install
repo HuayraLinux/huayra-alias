@@ -3,6 +3,8 @@ node_modules/* usr/share/huayra-alias/node_modules
 package.json usr/share/huayra-alias/
 bin/buscar usr/share/huayra-alias/bin
 bin/huayra/buscar usr/bin/
+bin/actualizar usr/share/huayra-alias/bin
+bin/huayra/actualizar usr/bin/
 bin/instalar usr/share/huayra-alias/bin
 bin/huayra/instalar usr/bin/
 debian/huayra-alias.desktop /usr/share/applications
