@@ -4,11 +4,12 @@ Priority: extra
 Maintainer: Hugo Ruscitti <hugoruscitti@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.6
-Homepage: https://github.com/HuayraLinux/huayra-caripela
-Vcs-Browser: https://github.com/HuayraLinux/huayra-caripela
+Homepage: https://github.com/HuayraLinux/huayra-alias
+Vcs-Browser: https://github.com/HuayraLinux/huayra-alias
 
 Package: huayra-alias
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Descripcion
- Descripcion larga.
+Depends: ${shlibs:Depends}, ${misc:Depends}, nodejs-legacy
+Description: Conjunto de comandos para simplificar tareas
+ Huayra Alias es un conjunto de comandos para simplificar 
+ las tareas dentro la consola de Huayra.

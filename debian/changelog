@@ -1,3 +1,10 @@
+huayra-alias (0.1.9) unstable; urgency=medium
+
+  * Quitando archivos de menu 
+  * Corrección de descripciones
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 25 Jun 2015 15:23:32 -0300
+
 huayra-alias (0.1.8) unstable; urgency=low
 
   * Reparando correlación de versiones.

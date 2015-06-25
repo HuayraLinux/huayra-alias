@@ -7,5 +7,3 @@ bin/actualizar usr/share/huayra-alias/bin
 bin/huayra/actualizar usr/bin/
 bin/instalar usr/share/huayra-alias/bin
 bin/huayra/instalar usr/bin/
-debian/huayra-alias.desktop /usr/share/applications
-debian/huayra-alias.svg /usr/share/icons/hicolor/scalable/apps
